@@ -1,1 +1,1 @@
-# Speech-to-Emotion-Recognition-Analysiso
+# Sequential Pattern Analysis Of Emotion In Speech With LSTM's
